@@ -112,7 +112,7 @@
 					};
 					93B445091D197A5300540A4E = {
 						CreatedOnToolsVersion = 8.0;
-						DevelopmentTeam = 99KV9Z6BKV;
+						DevelopmentTeam = PZYM8XX95Q;
 						DevelopmentTeamName = "Automattic, Inc.";
 						ProvisioningStyle = Automatic;
 					};
@@ -311,6 +311,7 @@
 				93B445151D197A5300540A4E /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		93B445171D197A5300540A4E /* Build configuration list for PBXNativeTarget "AutomatticStickers" */ = {
 			isa = XCConfigurationList;
@@ -319,6 +320,7 @@
 				93B445191D197A5300540A4E /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
