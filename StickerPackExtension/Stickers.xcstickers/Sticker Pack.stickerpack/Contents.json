@@ -1,0 +1,44 @@
+{
+  "stickers" : [
+    {
+      "filename" : "drake-creative-136x136.sticker"
+    },
+    {
+      "filename" : "drake-dazed-136x136.sticker"
+    },
+    {
+      "filename" : "drake-neutral-136-136.sticker"
+    },
+    {
+      "filename" : "drake-searching-136x136.sticker"
+    },
+    {
+      "filename" : "drake-smart-looking-136x136.sticker"
+    },
+    {
+      "filename" : "drake-stars-136x136.sticker"
+    },
+    {
+      "filename" : "drake-surprised-136x136.sticker"
+    },
+    {
+      "filename" : "drake-wordpress-check-136x136.sticker"
+    },
+    {
+      "filename" : "drake-wordpress-hug-136x136.sticker"
+    },
+    {
+      "filename" : "wapuu-136x136.sticker"
+    },
+    {
+      "filename" : "Sticker Sequence.stickersequence"
+    }
+  ],
+  "info" : {
+    "version" : 1,
+    "author" : "xcode"
+  },
+  "properties" : {
+    "grid-size" : "regular"
+  }
+}
