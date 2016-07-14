@@ -1,91 +1,111 @@
 {
   "images" : [
     {
+      "size" : "29x29",
+      "idiom" : "iphone",
+      "filename" : "settings-29x29@2x.png",
+      "scale" : "2x"
+    },
+    {
+      "size" : "29x29",
+      "idiom" : "iphone",
+      "filename" : "settings-29x29@3x.png",
+      "scale" : "3x"
+    },
+    {
+      "size" : "60x45",
+      "idiom" : "iphone",
+      "filename" : "stickers-appicon-60x45@2x.png",
+      "scale" : "2x"
+    },
+    {
+      "size" : "60x45",
+      "idiom" : "iphone",
+      "filename" : "stickers-appicon-60x45@3x.png",
+      "scale" : "3x"
+    },
+    {
+      "size" : "29x29",
+      "idiom" : "ipad",
+      "filename" : "settings-29x29.png",
+      "scale" : "1x"
+    },
+    {
+      "size" : "29x29",
+      "idiom" : "ipad",
+      "filename" : "settings-29x29@2x-1.png",
+      "scale" : "2x"
+    },
+    {
+      "size" : "67x50",
+      "idiom" : "ipad",
+      "filename" : "stickers-appicon-67x50.png",
+      "scale" : "1x"
+    },
+    {
+      "size" : "67x50",
+      "idiom" : "ipad",
+      "filename" : "stickers-appicon-67x50@2x.png",
+      "scale" : "2x"
+    },
+    {
+      "size" : "74x55",
+      "idiom" : "ipad",
+      "filename" : "stickers-appicon-74x55@2x.png",
+      "scale" : "2x"
+    },
+    {
       "size" : "27x20",
       "idiom" : "universal",
+      "filename" : "stickers-appicon-20x27.png",
       "scale" : "1x",
       "platform" : "ios"
     },
     {
       "size" : "27x20",
       "idiom" : "universal",
+      "filename" : "stickers-appicon-20x27@2x.png",
       "scale" : "2x",
       "platform" : "ios"
     },
     {
       "size" : "27x20",
       "idiom" : "universal",
+      "filename" : "stickers-appicon-20x27@3x.png",
       "scale" : "3x",
       "platform" : "ios"
     },
     {
       "size" : "32x24",
       "idiom" : "universal",
+      "filename" : "stickers-appicon-32x24.png",
       "scale" : "1x",
       "platform" : "ios"
     },
     {
       "size" : "32x24",
       "idiom" : "universal",
+      "filename" : "stickers-appicon-32x24@2x.png",
       "scale" : "2x",
       "platform" : "ios"
     },
     {
       "size" : "32x24",
       "idiom" : "universal",
+      "filename" : "stickers-appicon-32x24@3x.png",
       "scale" : "3x",
       "platform" : "ios"
     },
     {
       "size" : "1024x768",
       "idiom" : "ios-marketing",
+      "filename" : "messages-app-store-1024x768.png",
       "scale" : "1x",
       "platform" : "ios"
     },
     {
-      "idiom" : "iphone",
-      "size" : "29x29",
-      "scale" : "2x"
-    },
-    {
-      "idiom" : "iphone",
-      "size" : "29x29",
-      "scale" : "3x"
-    },
-    {
-      "idiom" : "iphone",
-      "size" : "60x45",
-      "scale" : "2x"
-    },
-    {
-      "idiom" : "iphone",
-      "size" : "60x45",
-      "scale" : "3x"
-    },
-    {
-      "idiom" : "ipad",
-      "size" : "29x29",
-      "scale" : "1x"
-    },
-    {
-      "idiom" : "ipad",
-      "size" : "29x29",
-      "scale" : "2x"
-    },
-    {
-      "idiom" : "ipad",
-      "size" : "67x50",
-      "scale" : "1x"
-    },
-    {
-      "idiom" : "ipad",
-      "size" : "67x50",
-      "scale" : "2x"
-    },
-    {
-      "idiom" : "ipad",
-      "size" : "74x55",
-      "scale" : "2x"
+      "filename" : "stickers-appicon-60x45.png",
+      "unassigned" : true
     }
   ],
   "info" : {
