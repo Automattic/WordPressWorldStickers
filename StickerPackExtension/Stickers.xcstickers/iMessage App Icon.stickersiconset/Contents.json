@@ -102,10 +102,6 @@
       "filename" : "messages-app-store-1024x768.png",
       "scale" : "1x",
       "platform" : "ios"
-    },
-    {
-      "filename" : "stickers-appicon-60x45.png",
-      "unassigned" : true
     }
   ],
   "info" : {
