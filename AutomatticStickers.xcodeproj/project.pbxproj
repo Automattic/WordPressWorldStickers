@@ -254,7 +254,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = "iMessage App Icon";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				INFOPLIST_FILE = StickerPackExtension/Info.plist;
-				PRODUCT_BUNDLE_IDENTIFIER = com.automattic.AutomatticStickers.StickerPackExtension;
+				PRODUCT_BUNDLE_IDENTIFIER = com.automattic.WordPressWorldStickers.StickerPackExtension;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SKIP_INSTALL = YES;
 			};
@@ -266,7 +266,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = "iMessage App Icon";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				INFOPLIST_FILE = StickerPackExtension/Info.plist;
-				PRODUCT_BUNDLE_IDENTIFIER = com.automattic.AutomatticStickers.StickerPackExtension;
+				PRODUCT_BUNDLE_IDENTIFIER = com.automattic.WordPressWorldStickers.StickerPackExtension;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SKIP_INSTALL = YES;
 			};
@@ -279,7 +279,7 @@
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				INFOPLIST_FILE = AutomatticStickers/Info.plist;
-				PRODUCT_BUNDLE_IDENTIFIER = com.automattic.AutomatticStickers;
+				PRODUCT_BUNDLE_IDENTIFIER = com.automattic.WordPressWorldStickers;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE = "e2e376d9-bbab-49af-9f22-5e179ed104ad";
 				PROVISIONING_PROFILE_SPECIFIER = "PZYM8XX95Q/Automattic Public Wildcard Dev";
@@ -294,7 +294,7 @@
 				CODE_SIGN_IDENTITY = "iPhone Distribution";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution";
 				INFOPLIST_FILE = AutomatticStickers/Info.plist;
-				PRODUCT_BUNDLE_IDENTIFIER = com.automattic.AutomatticStickers;
+				PRODUCT_BUNDLE_IDENTIFIER = com.automattic.WordPressWorldStickers;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE = "e3f7425f-b3fa-41ca-8be8-919c2331b3ee";
 				PROVISIONING_PROFILE_SPECIFIER = "PZYM8XX95Q/Automattic Public Wildcard App Store";
