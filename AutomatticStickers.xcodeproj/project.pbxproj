@@ -106,7 +106,7 @@
 				TargetAttributes = {
 					93B445051D197A5200540A4E = {
 						CreatedOnToolsVersion = 8.0;
-						DevelopmentTeam = 99KV9Z6BKV;
+						DevelopmentTeam = PZYM8XX95Q;
 						DevelopmentTeamName = "Automattic, Inc.";
 						ProvisioningStyle = Manual;
 					};
@@ -257,7 +257,7 @@
 				INFOPLIST_FILE = StickerPackExtension/Info.plist;
 				PRODUCT_BUNDLE_IDENTIFIER = com.automattic.WordPressWorldStickers.StickerPackExtension;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				PROVISIONING_PROFILE = "0d937a5e-414a-4e6f-bc61-fb91d39df975";
+				PROVISIONING_PROFILE = "d8dd8d70-9263-4695-b3d2-55a3f215980d";
 				PROVISIONING_PROFILE_SPECIFIER = "Automattic Wildcard Dev";
 				SKIP_INSTALL = YES;
 			};
@@ -284,11 +284,12 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = "iMessage App Icon";
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				DEVELOPMENT_TEAM = PZYM8XX95Q;
 				INFOPLIST_FILE = AutomatticStickers/Info.plist;
 				PRODUCT_BUNDLE_IDENTIFIER = com.automattic.WordPressWorldStickers;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				PROVISIONING_PROFILE = "e2e376d9-bbab-49af-9f22-5e179ed104ad";
-				PROVISIONING_PROFILE_SPECIFIER = "PZYM8XX95Q/Automattic Public Wildcard Dev";
+				PROVISIONING_PROFILE = "d8dd8d70-9263-4695-b3d2-55a3f215980d";
+				PROVISIONING_PROFILE_SPECIFIER = "Automattic Wildcard Dev";
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Debug;
@@ -299,11 +300,12 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = "iMessage App Icon";
 				CODE_SIGN_IDENTITY = "iPhone Distribution";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution";
+				DEVELOPMENT_TEAM = PZYM8XX95Q;
 				INFOPLIST_FILE = AutomatticStickers/Info.plist;
 				PRODUCT_BUNDLE_IDENTIFIER = com.automattic.WordPressWorldStickers;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				PROVISIONING_PROFILE = "e3f7425f-b3fa-41ca-8be8-919c2331b3ee";
-				PROVISIONING_PROFILE_SPECIFIER = "PZYM8XX95Q/Automattic Public Wildcard App Store";
+				PROVISIONING_PROFILE = "e9c95ed2-4fb1-4250-b35f-10963a2cb16b";
+				PROVISIONING_PROFILE_SPECIFIER = "Automattic Wildcard App Store";
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Release;
